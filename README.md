@@ -1,2 +1,3 @@
 # ExaminationSystem
- Website for taking exams in the browser
+
+Examination website that can be hosted locally, so that test can be taken offline.
