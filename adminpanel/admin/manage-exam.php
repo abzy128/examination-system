@@ -5,7 +5,7 @@ if(!isset($_SESSION['admin']['adminnakalogin']) == true) header("location:index.
 
 
  ?>
-<?php include("../../conn.php"); ?>
+<?php include("../../db/conn.php"); ?>
 
 <?php include("includes/header.php"); ?>      
 <?php include("includes/ui-theme.php"); ?>

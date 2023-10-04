@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <?php 
-  include("../../conn.php");
+  include("../../db/conn.php");
   include("query/countData.php");
  ?>
 

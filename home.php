@@ -1,11 +1,11 @@
 <?php 
 session_start();
 
-if(!isset($_SESSION['examineeSession']['examineenakalogin']) == true) header("location:index.php");
+if(!isset($_SESSION['examineeSession']['examineenakalogin']) == true) header("location:main.php");
 
 
  ?>
-<?php include("conn.php"); ?>
+<?php include("db/conn.php"); ?>
 
 <?php include("includes/header.php"); ?>      
 

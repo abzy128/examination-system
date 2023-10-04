@@ -1,5 +1,5 @@
 <?php 
- include("../../../conn.php");
+ include("../../../db/conn.php");
 
  extract($_POST);
 

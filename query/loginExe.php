@@ -2,7 +2,7 @@
 
 // Starting PHP session and including database connection configurations (like host, user, password and database name).
 session_start();
- include("../conn.php");
+ include("../db/conn.php");
 
 // Extracting data from global variable
 extract($_POST);

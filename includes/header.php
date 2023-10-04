@@ -1,5 +1,5 @@
 <?php 
-  include("conn.php");
+  include("db/conn.php");
   include("query/selectData.php");
  ?>
 

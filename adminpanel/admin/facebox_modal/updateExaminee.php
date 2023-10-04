@@ -1,6 +1,6 @@
 
 <?php 
-  include("../../../conn.php");
+  include("../../../db/conn.php");
   $id = $_GET['id'];
  
   $selStudent = $conn->query("SELECT * FROM students WHERE student_id='$id' ")->fetch(PDO::FETCH_ASSOC);

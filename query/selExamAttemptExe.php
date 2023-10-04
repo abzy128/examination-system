@@ -1,6 +1,6 @@
 <?php 
  session_start();
- include("../conn.php");
+ include("../db/conn.php");
 $studentId = $_SESSION['examineeSession']['student_id'];
  
 

@@ -22,4 +22,3 @@ Admin: Student List
 
 Admin: Edit Exam
 ![Edit Exams](/screenshots/localhost_adminpanel_admin_manage-exam.php_id=15.png "Edit Exams")
-
