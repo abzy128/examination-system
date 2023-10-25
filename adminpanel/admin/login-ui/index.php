@@ -44,7 +44,7 @@
 						<button type="submit" class="login100-form-btn">
 							Вход
 						</button>
-						<a class="login100-form-btn" href="../../main.php">
+						<a class="login100-form-btn" href="../../index.php">
 							Вход для студентов
 						</a>
 					</div>

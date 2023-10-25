@@ -1,7 +1,7 @@
 <?php 
 session_start();
 
-if(!isset($_SESSION['examineeSession']['examineenakalogin']) == true) header("location:main.php");
+if(!isset($_SESSION['examineeSession']['examineenakalogin']) == true) header("location:index.php");
 
 
  ?>
